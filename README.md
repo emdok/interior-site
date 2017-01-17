@@ -25,4 +25,4 @@ CSS
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2015 Emily Dokken
+Copyright (c) 2015 Emily G Dokken
