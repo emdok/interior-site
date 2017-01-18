@@ -11,6 +11,7 @@ A site created to practice Div / Class / Span tags for class at Epicodus.
 ## Setup/Installation Requirements
 
 You can view the site at this link here:
+https://emdok.github.io/interior-site/
 
 ## Support and contact details
 
