@@ -1,8 +1,26 @@
 .column {
-  width: 30%;
+  width: 31%;
   float: left;
   background-color: #8EAEBD;
-  padding: 12px;
+  padding: 21px;
+  margin: 0 auto;
+  margin-left: 4px;
+}
+.column-2 {
+  width: 31%;
+  float: right;
+  background-color: #8EAEBD;
+  padding: 21px;
+  margin: 0 auto;
+}
+.column-3 {
+  width: 31%;
+  float: right;
+  background-color: #8EAEBD;
+  padding: 21px;
+  margin: 0 auto;
+}
+.wrapper {
   margin: 0 auto;
 }
 img {
